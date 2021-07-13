@@ -5,7 +5,7 @@ Flask-Bcrypt==0.7.1
 Flask-SQLAlchemy==2.1
 Flask-WTF==0.12
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 numpy==1.11.0
 pandas==0.18.1
